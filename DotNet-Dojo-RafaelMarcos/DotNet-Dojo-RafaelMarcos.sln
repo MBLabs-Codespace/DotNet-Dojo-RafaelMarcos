@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNet-Dojo-RafaelMarcos", "DotNet-Dojo-RafaelMarcos.csproj", "{0C468B09-5CFF-4D7D-8ED1-AADF54138340}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C468B09-5CFF-4D7D-8ED1-AADF54138340}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C468B09-5CFF-4D7D-8ED1-AADF54138340}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C468B09-5CFF-4D7D-8ED1-AADF54138340}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C468B09-5CFF-4D7D-8ED1-AADF54138340}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
